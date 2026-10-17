@@ -1,0 +1,6 @@
+{
+  "name": "SentinelOps",
+  "description": "Autonomous AI Incident Investigation, Root-Cause Analysis & Recovery Platform for Modern Cloud & PostgreSQL Systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
